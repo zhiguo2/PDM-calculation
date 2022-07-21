@@ -1,3 +1,3 @@
 # PDM-calculation
 
-Wriiten to deal with the Pulse Decay Method data.
+Written for dealing with the Pulse Decay Method data.
